@@ -3,7 +3,6 @@
 ![Zerodha](https://i.imgur.com/26CrupD.png)
 To view demo [click here](https://zerodha-clone.vercel.app/).
 
-To view source code [click here](https://github.com/shreedharbhat98/zerodha-clone).
 
 ## About
 
