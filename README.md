@@ -24,3 +24,4 @@ Install dependencies :
 Run command
 
 - `npm start`
+# Zerodha-Clone
